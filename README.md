@@ -69,10 +69,3 @@ npm start
 
 📄 License
 MIT © Samrat Kavide
-
-Let me know if you want help:
-- Writing test cases
-- Handling edge cases (e.g., duplicate emails/phones)
-- Scaling to support user authentication
-
-You're doing great — nearly production-grade now!
