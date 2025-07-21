@@ -70,16 +70,6 @@ npm start
 📄 License
 MIT © Samrat Kavide
 
-```yaml
-
----
-
-## ✅ What’s Next?
-
-- Add this `README.md` to your GitHub repo.
-- (Optional) Add error handling for invalid inputs.
-- You’re ready to submit or showcase this project! 💪
-
 Let me know if you want help:
 - Writing test cases
 - Handling edge cases (e.g., duplicate emails/phones)
